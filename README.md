@@ -1,2 +1,2 @@
 # restaurantbilling
-simple food ordering system using c programming
+simple food ordering system using c programming 
